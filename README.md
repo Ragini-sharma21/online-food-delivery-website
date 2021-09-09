@@ -6,4 +6,4 @@ The website has a landing page which showcases different sections
 3)CONTACT US
 4)ABOUT US
 
-The website has a user-friendly interface from where user can order food and it also contains a form to be filled by the user so the data get saves from the next ordering.
+The website has a user-friendly interface from where user can order food and it also contains a form to be filled by the user so the data get saved for the next ordering.
